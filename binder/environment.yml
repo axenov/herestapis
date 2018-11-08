@@ -5,9 +5,11 @@ dependencies:
   - python==3.6
   - numpy
   - pip:
+    - httpie
     - nbgitpuller
     - sphinx-gallery
     - matplotlib    
     - geopy
     - shapely
     - geographiclib
+    - git+https://github.com/deeplook/ipyrest
