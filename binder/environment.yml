@@ -12,4 +12,5 @@ dependencies:
     - geopy
     - shapely
     - geographiclib
+    - cesiumpy
     - git+https://github.com/deeplook/ipyrest
