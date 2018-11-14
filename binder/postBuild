@@ -1,4 +1,3 @@
 #!/bin/bash
 
-# install ipyrest package from github
-# pip install git+https://github.com/deeplook/ipyrest
+jupyter nbextension enable --py --sys-prefix ipyearth
